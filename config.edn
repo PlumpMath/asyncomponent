@@ -1,0 +1,9 @@
+{:db {:host "localhost"
+      :port 1212
+      :user "test"
+      :pass "secretpassword"}
+ :repl {:port 7889}
+ :scheduler {:period "0/10 * * * * ?"}
+ :logger {}
+ :transformer {}
+}
